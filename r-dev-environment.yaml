@@ -1,5 +1,6 @@
 name: r-dev-environment
 channels:
+  - https://conda.anaconda.org/milagro
   - defaults
 dependencies:
   - _r-mutex=1.0.0=mro_2
